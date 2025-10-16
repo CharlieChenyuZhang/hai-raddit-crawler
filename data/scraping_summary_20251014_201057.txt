@@ -1,0 +1,79 @@
+REDDIT SCRAPING SUMMARY REPORT
+==================================================
+
+Generated at: 2025-10-14 20:10:57
+
+Subreddit: r/antiwork
+  Posts collected: 573
+  Date range: 2025-09-18 to 2025-10-14
+  Average score: 616.23
+  Average comments: 53.73
+
+Subreddit: r/raisedbynarcissists
+  Posts collected: 999
+  Date range: 2025-10-04 to 2025-10-14
+  Average score: 37.51
+  Average comments: 11.91
+
+Subreddit: r/survivinginfidelity
+  Posts collected: 958
+  Date range: 2025-08-12 to 2025-10-14
+  Average score: 37.94
+  Average comments: 26.06
+
+Subreddit: r/BreakUps
+  Posts collected: 1000
+  Date range: 2025-10-12 to 2025-10-14
+  Average score: 5.80
+  Average comments: 4.08
+
+Subreddit: r/depression
+  Posts collected: 992
+  Date range: 2025-10-09 to 2025-10-14
+  Average score: 9.57
+  Average comments: 3.52
+
+Subreddit: r/Anxiety
+  Posts collected: 998
+  Date range: 2025-10-08 to 2025-10-14
+  Average score: 5.37
+  Average comments: 5.27
+
+Subreddit: r/TrueOffMyChest
+  Posts collected: 991
+  Date range: 2025-10-04 to 2025-10-14
+  Average score: 192.21
+  Average comments: 25.52
+
+Subreddit: r/offmychest
+  Posts collected: 995
+  Date range: 2025-10-11 to 2025-10-14
+  Average score: 21.91
+  Average comments: 5.57
+
+Subreddit: r/RedditForGrownups
+  Posts collected: 872
+  Date range: 2024-12-14 to 2025-10-14
+  Average score: 154.05
+  Average comments: 93.33
+
+Subreddit: r/selfimprovement
+  Posts collected: 972
+  Date range: 2025-09-16 to 2025-10-14
+  Average score: 55.22
+  Average comments: 19.01
+
+Subreddit: r/AskReddit
+  Posts collected: 997
+  Date range: 2025-10-14 to 2025-10-14
+  Average score: 9.56
+  Average comments: 20.36
+
+Subreddit: r/math
+  Posts collected: 806
+  Date range: 2025-07-08 to 2025-10-14
+  Average score: 70.37
+  Average comments: 30.12
+
+TOTAL POSTS COLLECTED: 11153
+TOTAL SUBREDDITS: 12

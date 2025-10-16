@@ -2,17 +2,6 @@
 **/.env
 **/.env.example
 
-
-# Data files
-data/
-*.json
-*.csv
-*.txt
-
-# Logs
-*.log
-logs/
-
 # Python
 __pycache__/
 *.py[cod]
